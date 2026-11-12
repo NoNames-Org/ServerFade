@@ -1,0 +1,14 @@
+name: ServerFade
+version: '${project.version}'
+main: mc.net.fell.serverfade.paper.ServerFadePlugin
+api-version: '1.21'
+authors: [Fell]
+description: Black screen fade around a teleport or another action (API for other plugins)
+commands:
+  fade:
+    description: ServerFade test and reload
+    usage: /fade test | reload
+    permission: serverfade.admin
+permissions:
+  serverfade.admin:
+    default: op

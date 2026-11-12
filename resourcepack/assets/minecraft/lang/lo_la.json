@@ -1,0 +1,11 @@
+{
+  "connect.connecting": "\ue1f0",
+  "connect.authorizing": "\ue1f0",
+  "connect.encrypting": "\ue1f0",
+  "connect.negotiating": "\ue1f0",
+  "connect.joining": "\ue1f0",
+  "connect.transferring": "\ue1f0",
+  "connect.reconfiguring": "\ue1f0",
+  "connect.reconfiging": "\ue1f0",
+  "multiplayer.downloadingTerrain": "\ue1f0"
+}

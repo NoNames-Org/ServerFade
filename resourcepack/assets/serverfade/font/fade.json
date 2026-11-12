@@ -1,0 +1,13 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "serverfade:font/fade.png",
+      "height": 1280,
+      "ascent": 640,
+      "chars": [
+        "\ue000"
+      ]
+    }
+  ]
+}

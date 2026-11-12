@@ -1,0 +1,5 @@
+name: ServerFade
+main: mc.net.fell.serverfade.ServerFadePlugin
+version: ${project.version}
+author: fell
+description: "${project.description}"

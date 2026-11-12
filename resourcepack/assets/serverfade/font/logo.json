@@ -1,0 +1,22 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "serverfade:font/logo.png",
+      "height": 16,
+      "ascent": 12,
+      "chars": [
+        "\ue1f0"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "serverfade:font/logo_steady.png",
+      "height": 16,
+      "ascent": 12,
+      "chars": [
+        "\ue1f1"
+      ]
+    }
+  ]
+}
